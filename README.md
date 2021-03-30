@@ -42,27 +42,6 @@ El usuario registrado puede crear gastos e ingresos, consultarlos, editarlos y b
 <p align="center"><img src= "https://stilografica.es/listadoIngresos.png">
 </p>
 
-## Prerequisitos 📋
-
-Debe tener instalado:
-
-* [Node.js](https://nodejs.org/en/download/)
-* NPM (viene instalado con las versiones más recientes de Node)
-
-## Ejecutar la aplicación localmente 🔧
-* Descargar todos los archivos
-* Abrir la consola en la carpeta descargada y ejecutar en la terminal:
-
-```
-$ npm i
-```
-y a continuación: 
-```
-$ npm start
-```
-  Esto iniciará el servidor de token local y ejecutará la aplicación en el modo de desarrollo.  
-* Abrir http://localhost:3000 para visualizar la aplicación en el navegador.
-
 ## Construido con 🛠️
 
 * React js
